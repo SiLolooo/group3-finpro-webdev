@@ -1,0 +1,15 @@
+{
+  "status_data": "SNAPSHOT CADANGAN - MODE LATIHAN (CUMAN DATA SIMULASI)",
+  "tanggal_snapshot": "2026-11-24",
+  "keterangan": "Faktor emisi sintetis latihan untuk simulasi kalkulator listrik rumah tangga.",
+  "data": [
+    {
+      "id": "fe-latihan-01",
+      "nama_sistem": "Grid Listrik Simulasi (Mode Latihan)",
+      "tahun": 2026,
+      "nilai": 0.87,
+      "satuan": "kg CO2/kWh",
+      "label": "latihan"
+    }
+  ]
+}
